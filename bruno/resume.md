@@ -23,20 +23,28 @@ Event | Location | Date | Role
 [Toward a neuro-computational account of skill acquisition by Merav Ahissar](https://goo.gl/photos/ve5UTmdVo3JWKkXQ6) | QMUL | Oct 6, 2016 | Attendee
 [The clonal evolution of cancer by Trevor Graham](https://goo.gl/photos/oXAmXy6p8stGvTec6) | QMUL | Sep 29, 2016 | Attendee
 
-
 #### TALKS
+* Bionode.io talk at [London Evolutionary Research Network (LERN) conference 2016](https://londonevolution.org/2016/10/13/lern-conference-2016/)
 * Bionode.io lightning talk at MozFest 2016; [link to talk](https://youtu.be/S4NP-wnWMss); [link to slides](https://github.com/bmpvieira/fellows-class-2016/tree/master/bruno/MozFest/lightning-talk)
 
 #### TRAININGS
+* [Mozilla Working Open Workshop](https://science.mozilla.org/programs/events/working-open-workshop-march-2017) (Montréal, Canada)
+* Bioinformatics and Node.JS Streams with Bionode.io at Mozilla Workweek (San Francisco, USA)
+* Reproducible papers/code with Nix, Packrat, KnitR, and LaTeX at Mozilla Workweek (San Francisco, USA)
+* Bionode.io workshop at [Bioinformatics Open Day](http://www.bioinformaticsopendays.com) (Braga, Portugal);
 * Bionode.io workshop at MozFest 2016; [link to tutorial](http://try.bionode.io)
 
 #### BLOGS
+* Building a computer with 128 GB RAM for Bioinformatics (coming soon)
+* A truly reproducible scientific paper? - practical example (coming soon)
+* A truly reproducible scientific paper? [link to blog](https://medium.com/@bmpvieira/a-truly-reproducible-scientific-paper-5059b282ee9a)
 * Introducing the 2016 Mozilla Science Fellows: Bruno Vieira; [link to blog](https://science.mozilla.org/blog/intro-to-bruno)
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 Bionode.io | Node.JS / Bioinformatics | [LINK](http://bionode.io) | Community to build highly reusable tools and code for Bioinformatics using Node.JS
+Study Group | gh-pages | [LINK](https://bmpvieira.github.io/studyGroup/) | Study group to organise events for Bioinformatics and Genomics in London, Lisbon and Toronto
 Zine about Open Science | Keynote / PDF  | [LINK](https://github.com/bmpvieira/fellows-class-2016/tree/master/bruno/Zine) | Idea started during fellowship onboarding and it was presented at MozFest 2016
 
 I met with or made significant connections with the following organizations and people:
