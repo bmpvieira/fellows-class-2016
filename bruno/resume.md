@@ -81,14 +81,15 @@ I met with or made significant connections with the following organizations and 
 * GSoC Student is in a lab that wants to use Bionode more (at Molecular Medicine Institute)
 
 
-## Bionode (WIP)
+## Bionode
+During my fellowship I learned how to better manage this community and what the funding landscape for open source projects like this looks like. I approached some funders and also attracted new contributors to this projects. We now need funding to support maintainers.
 
-TODO: Summarize changes that happened to this project
-
-* Updated Bionode website a lot and community GitHub issues
-  * http://bionode.io
-  * http://contributors.bionode.io
-  * http://project.bionode.io
-  * Roadmap https://github.com/bionode/bionode/issues/42
-  * Blog: https://medium.com/@bionode
-  * Docs: http://doc.bionode.io
+The following was developed during this fellowship:
+* [Roadmap issue](https://github.com/bionode/bionode/issues/42)
+* [Projects using Bionode](http://bionode.io/#Users)
+* [Acknowledge all kinds of contributions](http://contributors.bionode.io)
+* [Public organization wide project board](http://project.bionode.io)
+* [Better contribution guidelines](https://github.com/bionode/bionode/blob/master/CONTRIBUTING.md)
+* [Code of Conduct](http://contributor-covenant.org/adopters/)
+* [Blog](https://medium.com/@bionode)
+* [Better Documentation](http://doc.bionode.io)
