@@ -14,7 +14,7 @@ As part of the 2016 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Description | Role
 ----- | -------- | ---- | ----------- | ----
-[Mozilla Fellows Offboarding]() | Toronto | 12-17th Jun, 2017 | Participant | 🙋
+Mozilla Fellows Offboarding | Cape Town | 12-17th Jun, 2017 | Participant | 📢 👩‍🏫 🙋
 [Global Sprint](http://bit.ly/lxmozsprint) | Lisbon | 1st-2nd Jun, 2017 | Site host and participant | 📋 💻
 [CSVconf](https://csvconf.com) | Portland | 2-3 May, 2017 | Demo about Bionode and participant | 👩‍🏫 💻 🙋
 [MicroWOW at QMUL](https://www.eventbrite.co.uk/e/micro-working-open-workshop-git-and-github-tickets-6217345247) | London | 28 Apr, 2017 | Organizer | 📋
